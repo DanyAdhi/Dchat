@@ -22,7 +22,7 @@ You can download this application in the form of apk on [here](https://drive.goo
 2. Connect your cellphone to the pc or laptop that you will use using a USB cable.
 3. Open this application directory using cmd.
 4. Write NPM Install
-5. Setup Firebase
+5. Setup Firebase [Here](## Setup Firebase)
 6. Write "react-native run-android", then press enter.
 7. Wait for the process to complete, then the simple notes application will be installed and open on your mobile
 
