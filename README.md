@@ -13,7 +13,9 @@ You can download this application in the form of apk on [here](https://drive.goo
 ## Requirements
 1. Npm (node package manager)
 2. React-native-cli for Windows-Android (from npm)
-3. My Rest API Download or Clone on Download/clone on <a href="https://github.com/DanyAdhi/Simple-Notes-RestAPI-with-NodeJs">here!</a>
+3. Firebase Account
+4. Google Cloud (to make API Maps SDK)
+
 
 ## How To Install
 1. Make sure you have downloaded or clone the backend first <a href="https://github.com/DanyAdhi/Simple-Notes-RestAPI-with-NodeJs">here!</a>
@@ -22,6 +24,12 @@ You can download this application in the form of apk on [here](https://drive.goo
 4. Open this application directory using cmd.
 5. Write "react-native run-android", then press enter.
 6. Wait for the process to complete, then the simple notes application will be installed and open on your mobile
+
+
+## Setup Firebase
+The most important from this app is the database, you must setup the database first at firebase. You can follow the instructions how to create a real time database [here](https://www.metizsoft.com/blog/real-time-firebase-integration-with-react-native)
+After you create a real time database at firebase and you got a Web Configuration, you must put the firebase web configuration at this file [AuthLoadingScreen](https://www.metizsoft.com/blog/real-time-firebase-integration-with-react-native)
+
 
 ## Preview Video for This App
 See this application demo <a href="https://drive.google.com/file/d/1o2jMcN9GVfyfzbIg9NHaTR3u1m8NKV9Y/view?usp=sharing">here!</a>
