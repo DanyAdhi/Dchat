@@ -29,7 +29,7 @@ You can download this application in the form of apk on [here](https://drive.goo
 
 ## Setup Firebase
 The most important from this app is the database, you must setup the database first at firebase. You can follow the instructions how to create a real time database [here](https://www.metizsoft.com/blog/real-time-firebase-integration-with-react-native)
-After you create a real time database at firebase and you got a Web Configuration, you must put the firebase web configuration at this file [AuthLoadingScreen](https://www.metizsoft.com/blog/real-time-firebase-integration-with-react-native)
+After you create a real time database at firebase and you got a Web Configuration, you must put the firebase web configuration at this file [Fire](https://github.com/DanyAdhi/Dchat/blob/master/Fire.js)
 
 
 ## Preview Video for This App
